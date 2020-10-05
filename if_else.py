@@ -30,3 +30,4 @@ condition = None
 #    condition('zero')
 #    print('num is zero')
 # Code ends here
+#what_is_a_condition
